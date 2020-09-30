@@ -11,13 +11,14 @@ No. 	Hands-on Assignment 	Topics Covered 	Status
 
  Write a program to check if a given number is Positive, Negative, or Zero.
 
-	If Statement 	
-2 	
+	
+2	If Statement 	
+	
 
  Write a program to check if a given number is odd or even.
 
-	If Statement 	
-3 	
+3      If Statement 	
+ 	
 
  Write a program to check if the program has received command line arguments or not. If the program has not received the values then print "No Values", else print all the values in a single line separated by ,(comma).
 Eg1) java Example
@@ -26,8 +27,8 @@ Eg2) java Example Mumbai Bangalore
 O/P: Mumbai,Bangalore
 [Note: You can use length property of an array to check its length
 
-	If Statement 	
-4 	
+4	If Statement 	
+ 	
 
  Initialize two character variables in a program and display the characters in alphabetical order.
 Eg1) if first character is s and second is e
@@ -35,13 +36,13 @@ O/P: e,s
 Eg2) if first character is a and second is e
 O/P:a,e
 
-	If Statement 	
-5 	
+5	If Statement 	
+ 	
 
- Intialize a character variable in a program and if the value is alphabet then print "Alphabet" if it’s a number then print "Digit" and for other characters print "Special Character"
+ Intialize a character variable in a program and if the value is alphabet then print "Alphabet" if it’s a number then print "Digit" and for other characters print "Special       Character"
 
-	If Statement 	
-6 	
+6	If Statement 	
+ 	
 
  Write a program to accept gender ("Male" or "Female") and age (1-120) from command line arguments and print the percentage of interest based on the given conditions.
 Interest == 8.2% 
@@ -57,18 +58,18 @@ Interest == 8.3%
  Gender ==> Male
  Age    ==>61-120
 
-	If Statement 	
-7 	
+7	If Statement 	
+ 	
 
  Write a program to convert from upper case to lower case and vice versa of an alphabet and print the old character and new character as shown in example (Ex: a->A, M->m).
 
-	If Statement 	
-8 	
+8	If Statement 	
+ 	
 
  Write a program to print the color name, based on color code. If color code in not valid then print "Invalid Code". R->Red, B->Blue, G->Green, O->Orange, Y->Yellow, W->White.
 
-	Switch Statement 	
-9 	
+9	Switch Statement 	
+ 	
 
  Write a program to print month in words, based on input month in numbers
 Example1:
@@ -89,28 +90,28 @@ Example3:
 
      O/P Expected : Invalid month
 
-	Switch Statement 	
-10 	
+10	Switch Statement 	
+ 	
 
  Write a program to print numbers from 1 to 10 in a single row with one tab space.
 
-	For Loop 	
-11 	
+11	For Loop 	
+ 	
 
  Write a program to print even numbers between 23 and 57, each number should be printed in a separate row.
 
-	For Loop 	
-12 	
+12	For Loop 	
+ 	
 
  Write a program to check if a given number is prime or not
 
-	For Loop 	
-13 	
+13	For Loop 	
+ 	
 
  Write a program to print prime numbers between 10 and 99.
 
-	For Loop 	
-14 	
+14	For Loop 	
+ 	
 
  Write a Java program to find if the given number is prime or not.
 
@@ -144,13 +145,13 @@ Example5:
 
      O/P Expected : 7 is a prime number
 
-	For Loop 	
-15 	
+15	For Loop 	
+ 	
 
  Write a program to add all the values in a given number and print. Ex: 1234->10
 
-	For Loop 	
-16 	
+16	For Loop 	
+ 	
 
  Write a program to print * in Floyds format (using for and while loop)
 *
@@ -174,8 +175,8 @@ Example1:
                    *  * 
                    *  *  *
 
-	For Loop 	
-17 	
+17	For Loop 	
+ 	
 
  Write a program to reverse a given number and print
 Eg1)
@@ -185,8 +186,8 @@ Eg2)
 I/P:1004
 O/P:4001
 
-	While Loop 	
-18 	
+18	While Loop 	
+ 	
 
  Write a Java program to find if the given number is palindrome or not
 
@@ -202,13 +203,13 @@ Example2:
 
      O/P Expected : 1234 is not a palindrome
 
-	While Loop 	
-19 	
+19	While Loop 	
+ 	
 
  Write a program to print first 5 values which are divisible by 2, 3, and 5.
 
-	While Loop 	
-20 	
+20	While Loop 	
+ 	
 
  Write a program that displays a menu with options 1. Add 2. Sub
 Based on the options chosen, read 2 numbers and perform the relevant operation. After performing the operation, the program should ask the user if he wants to continue. If the user presses y or Y, then the program should continue displaying the menu else the program should terminate.
